@@ -26,7 +26,7 @@ Two separate LAN segments:
 
 ## 📷 Topology Diagram
 
-![topology](./topology.png)
+![topology](./topology.PNG)
 
 ## 🔧 Configuration
 - All IP addresses are set manually via Desktop → IP Configuration.
